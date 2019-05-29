@@ -1,0 +1,3708 @@
+Gold file: 52_ann.txt, submitted file: 52_sub.txt 
+
+Gold annotations: 
+the third quarter
+Sept. 30
+the corresponding period last year
+This quarter
+this year's third quarter
+last year
+last year's quarter
+
+Submitted annotations: 
+quarter
+Sept. 30
+quarter
+quarter
+quarter
+
+-------- 
+True positive: 1, False positive: 4, False negative: 6 
+
+=========================================================================
+
+Gold file: 42_ann.txt, submitted file: 42_sub.txt 
+
+Gold annotations: 
+today
+now
+this September
+the year two thousand
+now
+
+Submitted annotations: 
+September
+
+-------- 
+True positive: 0, False positive: 1, False negative: 5 
+
+=========================================================================
+
+Gold file: 109_ann.txt, submitted file: 109_sub.txt 
+
+Gold annotations: 
+the third quarter
+a year ago
+August
+yesterday
+this summer
+a year ago
+third-quarter
+a year
+
+Submitted annotations: 
+quarter
+August
+yesterday
+third-quarter
+a year earlier
+
+-------- 
+True positive: 3, False positive: 2, False negative: 5 
+
+=========================================================================
+
+Gold file: 119_ann.txt, submitted file: 119_sub.txt 
+
+Gold annotations: 
+Dec. 1
+Nov. 10
+1989
+1990 and beyond
+yesterday
+
+Submitted annotations: 
+quarter
+Nov. 10
+yesterday
+
+-------- 
+True positive: 2, False positive: 1, False negative: 3 
+
+=========================================================================
+
+Gold file: 89_ann.txt, submitted file: 89_sub.txt 
+
+Gold annotations: 
+this month
+a later date
+early 1991
+this month
+
+Submitted annotations: 
+earlier
+
+-------- 
+True positive: 0, False positive: 1, False negative: 4 
+
+=========================================================================
+
+Gold file: 99_ann.txt, submitted file: 99_sub.txt 
+
+Gold annotations: 
+Friday
+nearly two months
+10-hour
+Previously
+Thursday
+over a week
+Jan. 13
+daily
+Friday
+Feb. 23
+Thursday
+Thursday
+Friday
+next week
+1990
+
+Submitted annotations: 
+quarter
+Jan. 13
+
+-------- 
+True positive: 1, False positive: 1, False negative: 14 
+
+=========================================================================
+
+Gold file: 30_ann.txt, submitted file: 30_sub.txt 
+
+Gold annotations: 
+today
+nineteen seventy-nine
+centuries
+more than two thousand years
+a few minutes
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 5 
+
+=========================================================================
+
+Gold file: 20_ann.txt, submitted file: 20_sub.txt 
+
+Gold annotations: 
+Friday
+last Thursday
+Nov. 6
+Nov. 16
+Friday evening
+mid-November
+last week
+Thursday
+Thursday
+
+Submitted annotations: 
+Nov. 6
+Nov. 16
+mid-November
+
+-------- 
+True positive: 3, False positive: 0, False negative: 6 
+
+=========================================================================
+
+Gold file: 136_ann.txt, submitted file: 136_sub.txt 
+
+Gold annotations: 
+Friday
+1995
+recently
+this September
+
+Submitted annotations: 
+September
+
+-------- 
+True positive: 0, False positive: 1, False negative: 4 
+
+=========================================================================
+
+Gold file: 126_ann.txt, submitted file: 126_sub.txt 
+
+Gold annotations: 
+Jan. 2
+Dec. 15
+third-quarter
+the year-ago quarter
+
+Submitted annotations: 
+quarter
+Jan. 2
+third-quarter
+quarter
+
+-------- 
+True positive: 2, False positive: 2, False negative: 2 
+
+=========================================================================
+
+Gold file: 154_ann.txt, submitted file: 154_sub.txt 
+
+Gold annotations: 
+the six months
+Oct. 1
+the latest period
+1988
+this year
+last year
+yesterday
+a year earlier
+
+Submitted annotations: 
+yesterday
+a year earlier
+
+-------- 
+True positive: 2, False positive: 0, False negative: 6 
+
+=========================================================================
+
+Gold file: 144_ann.txt, submitted file: 144_sub.txt 
+
+Gold annotations: 
+Dec. 7
+Nov. 30
+then
+Friday
+
+Submitted annotations: 
+Nov. 30
+
+-------- 
+True positive: 1, False positive: 0, False negative: 3 
+
+=========================================================================
+
+Gold file: 90_ann.txt, submitted file: 90_sub.txt 
+
+Gold annotations: 
+Aug. 26
+Oct. 20
+Aug. 10, 1988
+18 months
+two-year
+
+Submitted annotations: 
+Aug. 26
+Aug. 10
+
+-------- 
+True positive: 1, False positive: 1, False negative: 4 
+
+=========================================================================
+
+Gold file: 80_ann.txt, submitted file: 80_sub.txt 
+
+Gold annotations: 
+Nov. 1, 2004
+yesterday
+
+Submitted annotations: 
+Nov. 1
+yesterday
+
+-------- 
+True positive: 1, False positive: 1, False negative: 1 
+
+=========================================================================
+
+Gold file: 172_ann.txt, submitted file: 172_sub.txt 
+
+Gold annotations: 
+nearly forty years
+this evening
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 2 
+
+=========================================================================
+
+Gold file: 162_ann.txt, submitted file: 162_sub.txt 
+
+Gold annotations: 
+the latest fiscal year
+1985
+the past two years
+the six months
+Aug. 12
+a year earlier
+Last month
+
+Submitted annotations: 
+Aug. 12
+a year earlier
+
+-------- 
+True positive: 2, False positive: 0, False negative: 5 
+
+=========================================================================
+
+Gold file: 29_ann.txt, submitted file: 29_sub.txt 
+
+Gold annotations: 
+next year
+the next three years
+1988
+1983
+the past 20 months
+years
+this year
+about a decade
+the 1990s
+recently
+soon
+last year
+the fourth quarter
+1990
+this year
+
+Submitted annotations: 
+quarter
+
+-------- 
+True positive: 0, False positive: 1, False negative: 15 
+
+=========================================================================
+
+Gold file: 39_ann.txt, submitted file: 39_sub.txt 
+
+Gold annotations: 
+Friday
+the quarter
+July 31
+
+Submitted annotations: 
+the quarter
+July 31
+
+-------- 
+True positive: 2, False positive: 0, False negative: 1 
+
+=========================================================================
+
+Gold file: 110_ann.txt, submitted file: 110_sub.txt 
+
+Gold annotations: 
+next week
+Monday
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 2 
+
+=========================================================================
+
+Gold file: 100_ann.txt, submitted file: 100_sub.txt 
+
+Gold annotations: 
+the third quarter
+mid-November
+December
+the comparable year-ago quarter
+second quarter
+Oct. 31
+that quarter
+
+Submitted annotations: 
+quarter
+third-quarter
+mid-November
+December
+quarter
+quarter
+quarter
+
+-------- 
+True positive: 2, False positive: 5, False negative: 5 
+
+=========================================================================
+
+Gold file: 16_ann.txt, submitted file: 16_sub.txt 
+
+Gold annotations: 
+Tuesday
+this month
+Monday
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 3 
+
+=========================================================================
+
+Gold file: 74_ann.txt, submitted file: 74_sub.txt 
+
+Gold annotations: 
+September
+third-quarter
+this fall
+future
+this week
+the past year
+the third quarter
+
+Submitted annotations: 
+September
+third-quarter
+this week
+quarter
+
+-------- 
+True positive: 3, False positive: 1, False negative: 4 
+
+=========================================================================
+
+Gold file: 5_ann.txt, submitted file: 5_sub.txt 
+
+Gold annotations: 
+now
+current
+1993
+current
+this year
+soon
+right now
+recently
+Friday
+this year
+the next two years or so
+1989
+next year
+next year
+recent weeks
+Last Friday
+recently
+1992
+the full year
+Last year
+third-quarter
+the latest quarter
+
+Submitted annotations: 
+quarter
+third-quarter
+quarter
+
+-------- 
+True positive: 1, False positive: 2, False negative: 21 
+
+=========================================================================
+
+Gold file: 64_ann.txt, submitted file: 64_sub.txt 
+
+Gold annotations: 
+year-end
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 1 
+
+=========================================================================
+
+Gold file: 38_ann.txt, submitted file: 38_sub.txt 
+
+Gold annotations: 
+six months
+the year
+June
+March
+this year
+the first nine months
+the year
+recently
+Friday
+1987
+Sept. 29
+this year
+
+Submitted annotations: 
+June
+March
+Sept. 29
+
+-------- 
+True positive: 3, False positive: 0, False negative: 9 
+
+=========================================================================
+
+Gold file: 28_ann.txt, submitted file: 28_sub.txt 
+
+Gold annotations: 
+Friday
+1988
+1995
+1971
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 4 
+
+=========================================================================
+
+Gold file: 81_ann.txt, submitted file: 81_sub.txt 
+
+Gold annotations: 
+today
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 1 
+
+=========================================================================
+
+Gold file: 91_ann.txt, submitted file: 91_sub.txt 
+
+Gold annotations: 
+the year
+June 30, 1990
+the current fiscal year
+fiscal 1989
+fiscal 1989
+yesterday
+
+Submitted annotations: 
+June 30
+yesterday
+
+-------- 
+True positive: 1, False positive: 1, False negative: 5 
+
+=========================================================================
+
+Gold file: 163_ann.txt, submitted file: 163_sub.txt 
+
+Gold annotations: 
+the third quarter
+the quarter
+the year-ago third quarter
+the next two years
+fiscal 1989
+
+Submitted annotations: 
+quarter
+the quarter
+quarter
+
+-------- 
+True positive: 1, False positive: 2, False negative: 4 
+
+=========================================================================
+
+Gold file: 173_ann.txt, submitted file: 173_sub.txt 
+
+Gold annotations: 
+third-quarter
+the quarter
+Sept. 30
+the year-ago quarter
+year-ago
+the third quarter
+
+Submitted annotations: 
+third-quarter
+the quarter
+Sept. 30
+quarter
+quarter
+
+-------- 
+True positive: 3, False positive: 2, False negative: 3 
+
+=========================================================================
+
+Gold file: 101_ann.txt, submitted file: 101_sub.txt 
+
+Gold annotations: 
+now
+1988
+that year
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 3 
+
+=========================================================================
+
+Gold file: 111_ann.txt, submitted file: 111_sub.txt 
+
+Gold annotations: 
+around Nov. 1
+30-day
+Dec. 31, 1994
+the end of 1994
+the next 12 to 18 months
+currently
+
+Submitted annotations: 
+Nov. 1
+
+-------- 
+True positive: 0, False positive: 1, False negative: 6 
+
+=========================================================================
+
+Gold file: 17_ann.txt, submitted file: 17_sub.txt 
+
+Gold annotations: 
+Saturday
+May 26, 1980
+six days
+October 1984
+May 22, 1995
+the following year
+December
+
+Submitted annotations: 
+quarter
+May 26
+October 1984
+May 22
+December
+
+-------- 
+True positive: 2, False positive: 3, False negative: 5 
+
+=========================================================================
+
+Gold file: 65_ann.txt, submitted file: 65_sub.txt 
+
+Gold annotations: 
+the past year
+More recently
+last year
+the nineties
+this year
+a year
+the year two thousand
+last year
+now
+the past
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 10 
+
+=========================================================================
+
+Gold file: 4_ann.txt, submitted file: 4_sub.txt 
+
+Gold annotations: 
+Friday
+overnight
+the previous Friday
+Oct. 13
+current
+Thursday
+the week
+two-week
+Friday
+one day
+this week
+Monday
+Friday
+Thursday
+recent
+Friday
+the morning
+day
+November
+this week
+Friday
+the week
+Friday
+the past five days
+a week
+Friday
+Friday
+the weekend
+last week
+year-end
+
+Submitted annotations: 
+this week
+November
+this week
+
+-------- 
+True positive: 3, False positive: 0, False negative: 27 
+
+=========================================================================
+
+Gold file: 75_ann.txt, submitted file: 75_sub.txt 
+
+Gold annotations: 
+Feb. 1
+recently
+now
+Quarterly
+this year
+1988
+1987
+this year's third quarter
+a year earlier
+Sept. 30
+this year
+1990
+1974
+Feb. 1
+
+Submitted annotations: 
+quarter
+a year earlier
+Sept. 30
+
+-------- 
+True positive: 2, False positive: 1, False negative: 12 
+
+=========================================================================
+
+Gold file: 118_ann.txt, submitted file: 118_sub.txt 
+
+Gold annotations: 
+this year
+current
+Sept. 30
+Earlier this month
+
+Submitted annotations: 
+Sept. 30
+
+-------- 
+True positive: 1, False positive: 0, False negative: 3 
+
+=========================================================================
+
+Gold file: 108_ann.txt, submitted file: 108_sub.txt 
+
+Gold annotations: 
+the third quarter
+the 1988 third quarter
+
+Submitted annotations: 
+earlier
+quarter
+quarter
+
+-------- 
+True positive: 0, False positive: 3, False negative: 2 
+
+=========================================================================
+
+Gold file: 43_ann.txt, submitted file: 43_sub.txt 
+
+Gold annotations: 
+third-quarter
+A year ago
+yesterday
+within 18 months
+
+Submitted annotations: 
+third-quarter
+yesterday
+
+-------- 
+True positive: 2, False positive: 0, False negative: 2 
+
+=========================================================================
+
+Gold file: 53_ann.txt, submitted file: 53_sub.txt 
+
+Gold annotations: 
+yesterday
+Oct. 31
+five years ago
+last year
+third-quarter
+the year-ago period
+
+Submitted annotations: 
+yesterday
+third-quarter
+
+-------- 
+True positive: 2, False positive: 0, False negative: 4 
+
+=========================================================================
+
+Gold file: 21_ann.txt, submitted file: 21_sub.txt 
+
+Gold annotations: 
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 0 
+
+=========================================================================
+
+Gold file: 31_ann.txt, submitted file: 31_sub.txt 
+
+Gold annotations: 
+fourth-quarter
+two-year
+yesterday
+earlier this year
+two-year
+Earlier
+
+Submitted annotations: 
+quarter
+yesterday
+earlier
+
+-------- 
+True positive: 1, False positive: 2, False negative: 5 
+
+=========================================================================
+
+Gold file: 98_ann.txt, submitted file: 98_sub.txt 
+
+Gold annotations: 
+last month
+nineteen ninety-six
+January nineteen ninety-seven
+last month
+Now
+nineteen ninety-seven
+this week
+
+Submitted annotations: 
+January
+this week
+
+-------- 
+True positive: 1, False positive: 1, False negative: 6 
+
+=========================================================================
+
+Gold file: 88_ann.txt, submitted file: 88_sub.txt 
+
+Gold annotations: 
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 0 
+
+=========================================================================
+
+Gold file: 127_ann.txt, submitted file: 127_sub.txt 
+
+Gold annotations: 
+now
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 1 
+
+=========================================================================
+
+Gold file: 137_ann.txt, submitted file: 137_sub.txt 
+
+Gold annotations: 
+Dec. 7
+Nov. 22
+yesterday
+
+Submitted annotations: 
+Nov. 22
+yesterday
+
+-------- 
+True positive: 2, False positive: 0, False negative: 1 
+
+=========================================================================
+
+Gold file: 145_ann.txt, submitted file: 145_sub.txt 
+
+Gold annotations: 
+January
+Friday
+last month
+last month
+last month
+hourly
+a year earlier
+the last decade
+coming months
+Aug. 6
+30-year
+January
+last fall
+Friday
+December
+the last four months
+the last three months
+the first nine months
+1997
+the last few months
+Friday
+January
+last month
+December
+two decades
+January
+
+Submitted annotations: 
+January
+quarter
+a year earlier
+Aug. 6
+January
+December
+January
+December
+January
+
+-------- 
+True positive: 8, False positive: 1, False negative: 18 
+
+=========================================================================
+
+Gold file: 155_ann.txt, submitted file: 155_sub.txt 
+
+Gold annotations: 
+Sunday
+8-month-old
+Monday
+Feb. 20
+Sunday
+May
+two weeks ago
+10 days ago
+last week
+February
+Sunday
+1972
+Sunday
+the past three summers
+each July
+this summer
+this summer
+Earlier Sunday
+
+Submitted annotations: 
+May
+February
+July
+
+-------- 
+True positive: 2, False positive: 1, False negative: 16 
+
+=========================================================================
+
+Gold file: 113_ann.txt, submitted file: 113_sub.txt 
+
+Gold annotations: 
+fourth quarter
+yesterday
+1988
+1989
+next year
+1988
+
+Submitted annotations: 
+quarter
+yesterday
+
+-------- 
+True positive: 1, False positive: 1, False negative: 5 
+
+=========================================================================
+
+Gold file: 103_ann.txt, submitted file: 103_sub.txt 
+
+Gold annotations: 
+week
+the last twenty four hours
+five year
+four year
+Now
+October
+now
+the past three months
+ten years
+a couple of years
+
+Submitted annotations: 
+October
+
+-------- 
+True positive: 1, False positive: 0, False negative: 9 
+
+=========================================================================
+
+Gold file: 48_ann.txt, submitted file: 48_sub.txt 
+
+Gold annotations: 
+Nov. 8
+Sept. 30
+yesterday
+
+Submitted annotations: 
+Nov. 8
+Sept. 30
+yesterday
+
+-------- 
+True positive: 3, False positive: 0, False negative: 0 
+
+=========================================================================
+
+Gold file: 58_ann.txt, submitted file: 58_sub.txt 
+
+Gold annotations: 
+this month
+late yesterday
+the year
+July 2
+
+Submitted annotations: 
+earlier
+yesterday
+July 2
+
+-------- 
+True positive: 1, False positive: 2, False negative: 3 
+
+=========================================================================
+
+Gold file: 171_ann.txt, submitted file: 171_sub.txt 
+
+Gold annotations: 
+Dec. 15
+Nov. 17
+yesterday
+
+Submitted annotations: 
+Nov. 17
+quarter
+yesterday
+
+-------- 
+True positive: 2, False positive: 1, False negative: 1 
+
+=========================================================================
+
+Gold file: 161_ann.txt, submitted file: 161_sub.txt 
+
+Gold annotations: 
+today
+later this year
+the third quarter of 1984
+third-quarter
+a year ago
+
+Submitted annotations: 
+quarter
+third-quarter
+
+-------- 
+True positive: 1, False positive: 1, False negative: 4 
+
+=========================================================================
+
+Gold file: 93_ann.txt, submitted file: 93_sub.txt 
+
+Gold annotations: 
+last week
+yet
+yesterday
+Tuesday
+yesterday
+Tuesday
+yesterday
+Dec. 31, 1990
+the next 14 months
+1984
+current
+1988
+This week
+Tuesday
+
+Submitted annotations: 
+quarter
+yesterday
+yesterday
+yesterday
+quarter
+
+-------- 
+True positive: 3, False positive: 2, False negative: 11 
+
+=========================================================================
+
+Gold file: 83_ann.txt, submitted file: 83_sub.txt 
+
+Gold annotations: 
+yesterday
+Dec. 15
+the fiscal year
+Jan. 31
+1992
+currently
+
+Submitted annotations: 
+yesterday
+Jan. 31
+
+-------- 
+True positive: 2, False positive: 0, False negative: 4 
+
+=========================================================================
+
+Gold file: 77_ann.txt, submitted file: 77_sub.txt 
+
+Gold annotations: 
+Thursday
+almost two years ago
+the next two weeks
+March 1996
+11th century
+January this year
+weeks or months
+March 26, 1996
+22 months
+Thursday
+last year
+now
+a week
+the late 1970s
+mid-1996
+June last year
+July last year
+
+Submitted annotations: 
+quarter
+March 1996
+January
+March 26
+quarter
+quarter
+June
+July
+
+-------- 
+True positive: 1, False positive: 7, False negative: 16 
+
+=========================================================================
+
+Gold file: 6_ann.txt, submitted file: 6_sub.txt 
+
+Gold annotations: 
+the past two quarters
+recently
+Yesterday
+the beginning of October
+
+Submitted annotations: 
+quarter
+October
+
+-------- 
+True positive: 0, False positive: 2, False negative: 4 
+
+=========================================================================
+
+Gold file: 67_ann.txt, submitted file: 67_sub.txt 
+
+Gold annotations: 
+Dec. 7
+Friday
+1989
+early November
+third-quarter
+a year ago
+third-quarter
+the third quarter
+the third quarter
+a year ago
+Third-quarter
+a year ago
+
+Submitted annotations: 
+early November
+third-quarter
+third-quarter
+quarter
+quarter
+quarter
+
+-------- 
+True positive: 3, False positive: 3, False negative: 9 
+
+=========================================================================
+
+Gold file: 15_ann.txt, submitted file: 15_sub.txt 
+
+Gold annotations: 
+Friday
+the third quarter
+next year
+the quarter
+the year-earlier quarter
+a month ago
+the quarter
+future quarters
+the quarter
+the end of the year
+the quarter
+the past several quarters
+every quarter
+next year
+the near term
+this year
+this year
+last year
+Friday
+the first nine months
+a year
+the fourth quarter
+next year
+next year
+next year
+Friday
+
+Submitted annotations: 
+quarter
+quarter
+the quarter
+earlier
+quarter
+the quarter
+quarter
+quarter
+the quarter
+the quarter
+quarter
+quarter
+a year earlier
+quarter
+
+-------- 
+True positive: 4, False positive: 10, False negative: 22 
+
+=========================================================================
+
+Gold file: 33_ann.txt, submitted file: 33_sub.txt 
+
+Gold annotations: 
+now
+January
+early 1990
+
+Submitted annotations: 
+January
+
+-------- 
+True positive: 1, False positive: 0, False negative: 2 
+
+=========================================================================
+
+Gold file: 23_ann.txt, submitted file: 23_sub.txt 
+
+Gold annotations: 
+one-year term
+an additional year
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 2 
+
+=========================================================================
+
+Gold file: 168_ann.txt, submitted file: 168_sub.txt 
+
+Gold annotations: 
+yesterday
+this week
+Tuesday
+
+Submitted annotations: 
+yesterday
+this week
+
+-------- 
+True positive: 2, False positive: 0, False negative: 1 
+
+=========================================================================
+
+Gold file: 178_ann.txt, submitted file: 178_sub.txt 
+
+Gold annotations: 
+third-quarter
+year-earlier
+the quarter
+a year earlier
+
+Submitted annotations: 
+third-quarter
+earlier
+the quarter
+a year earlier
+
+-------- 
+True positive: 3, False positive: 1, False negative: 1 
+
+=========================================================================
+
+Gold file: 51_ann.txt, submitted file: 51_sub.txt 
+
+Gold annotations: 
+Tomorrow
+now
+tomorrow
+Now
+one day
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 5 
+
+=========================================================================
+
+Gold file: 41_ann.txt, submitted file: 41_sub.txt 
+
+Gold annotations: 
+two
+six days
+several years
+a year or two
+the years
+the early years
+each year
+five months ago
+five months
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 9 
+
+=========================================================================
+
+Gold file: 157_ann.txt, submitted file: 157_sub.txt 
+
+Gold annotations: 
+third-quarter
+a year ago
+the year-earlier period
+the latest quarter
+this year
+several months
+current
+April
+a year
+yesterday
+the latest quarter
+a year earlier
+a year ago
+earlier in the year
+the third quarter
+the quarter
+the nine months
+a year earlier
+Dec. 14
+Nov. 15
+January
+Dec. 21
+
+Submitted annotations: 
+third-quarter
+quarter
+earlier
+quarter
+April
+yesterday
+quarter
+a year earlier
+earlier
+quarter
+the quarter
+a year earlier
+Nov. 15
+January
+
+-------- 
+True positive: 8, False positive: 6, False negative: 14 
+
+=========================================================================
+
+Gold file: 147_ann.txt, submitted file: 147_sub.txt 
+
+Gold annotations: 
+sometime next year
+last week
+Friday
+last week
+early next year
+yesterday
+Wednesday
+Yesterday
+third-quarter
+next week
+late September
+Monday
+Nov. 6
+several years
+last April
+early next year
+the next few years
+
+Submitted annotations: 
+yesterday
+third-quarter
+September
+Nov. 6
+April
+earlier
+
+-------- 
+True positive: 3, False positive: 3, False negative: 14 
+
+=========================================================================
+
+Gold file: 135_ann.txt, submitted file: 135_sub.txt 
+
+Gold annotations: 
+the second day
+mid afternoon
+the future
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 3 
+
+=========================================================================
+
+Gold file: 125_ann.txt, submitted file: 125_sub.txt 
+
+Gold annotations: 
+third-quarter
+the year-earlier quarter
+the latest quarter
+June 1989
+
+Submitted annotations: 
+third-quarter
+earlier
+quarter
+quarter
+June 1989
+
+-------- 
+True positive: 2, False positive: 3, False negative: 2 
+
+=========================================================================
+
+Gold file: 179_ann.txt, submitted file: 179_sub.txt 
+
+Gold annotations: 
+Earlier yesterday
+last week
+Monday
+
+Submitted annotations: 
+yesterday
+
+-------- 
+True positive: 0, False positive: 1, False negative: 3 
+
+=========================================================================
+
+Gold file: 169_ann.txt, submitted file: 169_sub.txt 
+
+Gold annotations: 
+the third quarter
+a year ago
+the latest quarter
+Last year
+
+Submitted annotations: 
+quarter
+quarter
+
+-------- 
+True positive: 0, False positive: 2, False negative: 4 
+
+=========================================================================
+
+Gold file: 22_ann.txt, submitted file: 22_sub.txt 
+
+Gold annotations: 
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 0 
+
+=========================================================================
+
+Gold file: 32_ann.txt, submitted file: 32_sub.txt 
+
+Gold annotations: 
+Nov. 20
+yesterday
+already
+Nov. 10
+
+Submitted annotations: 
+Nov. 20
+yesterday
+Nov. 10
+
+-------- 
+True positive: 3, False positive: 0, False negative: 1 
+
+=========================================================================
+
+Gold file: 40_ann.txt, submitted file: 40_sub.txt 
+
+Gold annotations: 
+Thursday
+two-week
+two-hour
+Thursday
+now
+Aug. 2
+Thursday
+a fairly lengthy period
+now
+now
+A day earlier
+this week
+Wednesday
+Thursday
+September
+Thursday
+
+Submitted annotations: 
+quarter
+Aug. 2
+earlier
+this week
+September
+
+-------- 
+True positive: 3, False positive: 2, False negative: 13 
+
+=========================================================================
+
+Gold file: 50_ann.txt, submitted file: 50_sub.txt 
+
+Gold annotations: 
+Nov. 22
+last May
+Last April
+two years
+yesterday
+
+Submitted annotations: 
+Nov. 22
+May
+April
+yesterday
+
+-------- 
+True positive: 2, False positive: 2, False negative: 3 
+
+=========================================================================
+
+Gold file: 146_ann.txt, submitted file: 146_sub.txt 
+
+Gold annotations: 
+this week
+today
+now
+today
+Today
+now
+
+Submitted annotations: 
+this week
+
+-------- 
+True positive: 1, False positive: 0, False negative: 5 
+
+=========================================================================
+
+Gold file: 156_ann.txt, submitted file: 156_sub.txt 
+
+Gold annotations: 
+two day
+this year
+early Tuesday
+two day
+two days
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 5 
+
+=========================================================================
+
+Gold file: 124_ann.txt, submitted file: 124_sub.txt 
+
+Gold annotations: 
+early next year
+
+Submitted annotations: 
+quarter
+
+-------- 
+True positive: 0, False positive: 1, False negative: 1 
+
+=========================================================================
+
+Gold file: 134_ann.txt, submitted file: 134_sub.txt 
+
+Gold annotations: 
+Oct. 15, 1999
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 1 
+
+=========================================================================
+
+Gold file: 59_ann.txt, submitted file: 59_sub.txt 
+
+Gold annotations: 
+Thursday evening
+around 7:15 p.m.
+a few years ago
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 3 
+
+=========================================================================
+
+Gold file: 49_ann.txt, submitted file: 49_sub.txt 
+
+Gold annotations: 
+Friday
+more than four hours
+Friday
+November 1995
+
+Submitted annotations: 
+the November 1995
+
+-------- 
+True positive: 0, False positive: 1, False negative: 4 
+
+=========================================================================
+
+Gold file: 102_ann.txt, submitted file: 102_sub.txt 
+
+Gold annotations: 
+Earlier this month
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 1 
+
+=========================================================================
+
+Gold file: 112_ann.txt, submitted file: 112_sub.txt 
+
+Gold annotations: 
+the fiscal first quarter
+last spring
+the quarter
+Sept. 30
+a year earlier
+the quarter
+now
+the quarter
+third-quarter
+a year earlier
+Year-earlier
+the nine months
+a year earlier
+
+Submitted annotations: 
+quarter
+the quarter
+Sept. 30
+a year earlier
+the quarter
+the quarter
+the quarter
+third-quarter
+a year earlier
+earlier
+a year earlier
+
+-------- 
+True positive: 9, False positive: 2, False negative: 4 
+
+=========================================================================
+
+Gold file: 160_ann.txt, submitted file: 160_sub.txt 
+
+Gold annotations: 
+the third quarter
+the year-earlier quarter
+last June
+earlier this month
+the nine months
+the year-earlier period
+
+Submitted annotations: 
+quarter
+earlier
+quarter
+June
+earlier
+earlier
+
+-------- 
+True positive: 0, False positive: 6, False negative: 6 
+
+=========================================================================
+
+Gold file: 170_ann.txt, submitted file: 170_sub.txt 
+
+Gold annotations: 
+the end of this week
+1993
+Nov. 21
+
+Submitted annotations: 
+this week
+Nov. 21
+
+-------- 
+True positive: 1, False positive: 1, False negative: 2 
+
+=========================================================================
+
+Gold file: 82_ann.txt, submitted file: 82_sub.txt 
+
+Gold annotations: 
+third-quarter
+Last year
+year-earlier
+nearly two weeks ago
+fourth-quarter
+Friday
+the latest quarter
+last year
+nearly three years
+Third-quarter
+August
+the nine months
+last year
+
+Submitted annotations: 
+third-quarter
+earlier
+quarter
+quarter
+quarter
+August
+
+-------- 
+True positive: 2, False positive: 4, False negative: 11 
+
+=========================================================================
+
+Gold file: 92_ann.txt, submitted file: 92_sub.txt 
+
+Gold annotations: 
+June
+around year end
+
+Submitted annotations: 
+June
+
+-------- 
+True positive: 1, False positive: 0, False negative: 1 
+
+=========================================================================
+
+Gold file: 66_ann.txt, submitted file: 66_sub.txt 
+
+Gold annotations: 
+fourth quarter
+Sept. 30
+the fiscal year
+fiscal 1988
+
+Submitted annotations: 
+quarter
+Sept. 30
+earlier
+
+-------- 
+True positive: 1, False positive: 2, False negative: 3 
+
+=========================================================================
+
+Gold file: 7_ann.txt, submitted file: 7_sub.txt 
+
+Gold annotations: 
+27-year
+six months
+several-year
+now
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 4 
+
+=========================================================================
+
+Gold file: 76_ann.txt, submitted file: 76_sub.txt 
+
+Gold annotations: 
+Sunday
+Sunday
+1978
+Friday
+Sunday
+today
+1985
+Last week
+last year
+last February
+Sunday
+last week
+last week
+Sunday
+nearly two years
+six weeks ago
+the time
+
+Submitted annotations: 
+February
+
+-------- 
+True positive: 0, False positive: 1, False negative: 17 
+
+=========================================================================
+
+Gold file: 14_ann.txt, submitted file: 14_sub.txt 
+
+Gold annotations: 
+third-quarter
+two-year
+the fourth quarter
+first two quarters of 1990
+coming quarters
+the third quarter of 1990
+year-ago period
+Third-quarter
+a year ago
+third-quarter
+a year ago
+a year ago
+June 1
+the fourth quarter
+the early summer
+third-quarter
+the year-ago quarter
+now
+fiscal second-quarter
+quarter
+Sept. 30
+a year ago
+The latest period
+Last year
+
+Submitted annotations: 
+third-quarter
+quarter
+quarter
+quarter
+quarter
+quarter
+third-quarter
+June 1
+quarter
+third-quarter
+quarter
+quarter
+the quarter
+Sept. 30
+
+-------- 
+True positive: 13, False positive: 1, False negative: 11 
+
+=========================================================================
+
+Gold file: 128_ann.txt, submitted file: 128_sub.txt 
+
+Gold annotations: 
+the third quarter
+yesterday
+this morning
+year end
+a year ago
+the nine months
+a year earlier
+the first nine months
+third-quarter
+the nine months
+the latest nine months
+a year earlier
+the end of 1990
+
+Submitted annotations: 
+quarter
+yesterday
+a year earlier
+third-quarter
+a year earlier
+
+-------- 
+True positive: 4, False positive: 1, False negative: 9 
+
+=========================================================================
+
+Gold file: 138_ann.txt, submitted file: 138_sub.txt 
+
+Gold annotations: 
+third quarter
+a year earlier
+third-quarter
+year-earlier
+the latest period
+second
+fourth quarters
+the current quarter
+
+Submitted annotations: 
+quarter
+a year earlier
+third-quarter
+earlier
+quarter
+quarter
+
+-------- 
+True positive: 2, False positive: 4, False negative: 6 
+
+=========================================================================
+
+Gold file: 181_ann.txt, submitted file: 181_sub.txt 
+
+Gold annotations: 
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 0 
+
+=========================================================================
+
+Gold file: 2_ann.txt, submitted file: 2_sub.txt 
+
+Gold annotations: 
+last April
+yesterday
+at least 30 days
+August 1988
+
+Submitted annotations: 
+April
+yesterday
+August 1988
+
+-------- 
+True positive: 2, False positive: 1, False negative: 2 
+
+=========================================================================
+
+Gold file: 73_ann.txt, submitted file: 73_sub.txt 
+
+Gold annotations: 
+third-quarter
+a year ago
+future
+1990
+currently
+the quarter
+a year ago
+
+Submitted annotations: 
+third-quarter
+the quarter
+
+-------- 
+True positive: 2, False positive: 0, False negative: 5 
+
+=========================================================================
+
+Gold file: 63_ann.txt, submitted file: 63_sub.txt 
+
+Gold annotations: 
+third-quarter
+yesterday
+Wednesday
+Later yesterday
+the third quarter
+third-quarter
+yesterday
+the third quarter
+the fourth quarter
+coming weeks
+30-year
+Wednesday
+Wednesday
+
+Submitted annotations: 
+third-quarter
+yesterday
+yesterday
+quarter
+third-quarter
+yesterday
+quarter
+quarter
+
+-------- 
+True positive: 5, False positive: 3, False negative: 8 
+
+=========================================================================
+
+Gold file: 11_ann.txt, submitted file: 11_sub.txt 
+
+Gold annotations: 
+Friday
+February 1947
+
+Submitted annotations: 
+February 1947
+
+-------- 
+True positive: 1, False positive: 0, False negative: 1 
+
+=========================================================================
+
+Gold file: 117_ann.txt, submitted file: 117_sub.txt 
+
+Gold annotations: 
+third quarter
+the year-ago period
+the quarter
+
+Submitted annotations: 
+quarter
+the quarter
+
+-------- 
+True positive: 1, False positive: 1, False negative: 2 
+
+=========================================================================
+
+Gold file: 107_ann.txt, submitted file: 107_sub.txt 
+
+Gold annotations: 
+as soon as possible
+Earlier this year
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 2 
+
+=========================================================================
+
+Gold file: 97_ann.txt, submitted file: 97_sub.txt 
+
+Gold annotations: 
+months ago
+soon
+now
+five-year
+that time
+this year
+next year
+recent
+1990
+a good part of 1990
+next year
+recent months
+January
+Last week
+third-quarter
+the first nine months
+recently
+several quarters
+recently
+the end of 1990
+this past spring
+
+Submitted annotations: 
+January
+quarter
+third-quarter
+quarter
+
+-------- 
+True positive: 2, False positive: 2, False negative: 19 
+
+=========================================================================
+
+Gold file: 87_ann.txt, submitted file: 87_sub.txt 
+
+Gold annotations: 
+the fiscal first quarter
+the quarter
+Sept. 29
+a year earlier
+the 1988 period
+this month
+the quarter
+April
+the quarter
+April
+the summer
+its fourth quarter
+June 30
+this year
+the fiscal year
+Recently
+early next year
+
+Submitted annotations: 
+quarter
+quarter
+the quarter
+Sept. 29
+a year earlier
+the quarter
+April
+the quarter
+April
+quarter
+June 30
+earlier
+
+-------- 
+True positive: 8, False positive: 4, False negative: 9 
+
+=========================================================================
+
+Gold file: 175_ann.txt, submitted file: 175_sub.txt 
+
+Gold annotations: 
+Aug. 9
+then current
+the fiscal-first quarter
+Sept. 30
+a year ago
+a year earlier
+
+Submitted annotations: 
+Aug. 9
+quarter
+Sept. 30
+a year earlier
+
+-------- 
+True positive: 3, False positive: 1, False negative: 3 
+
+=========================================================================
+
+Gold file: 165_ann.txt, submitted file: 165_sub.txt 
+
+Gold annotations: 
+late yesterday
+yesterday
+the weekend
+Feb. 11
+a week or so ago
+Saturday night
+a week
+noon Saturday
+last August
+a week
+the four days
+nearly an hour
+Saturday night
+the first hours
+the next few days
+eight-year
+
+Submitted annotations: 
+yesterday
+yesterday
+August
+
+-------- 
+True positive: 2, False positive: 1, False negative: 14 
+
+=========================================================================
+
+Gold file: 18_ann.txt, submitted file: 18_sub.txt 
+
+Gold annotations: 
+September
+this month
+now
+past years
+these days
+1987
+Eight trading days
+Oct. 12
+the day
+Three days
+Friday
+Friday
+the week
+Friday
+Friday
+October
+now
+Thursday
+two to three weeks
+third-quarter
+last year
+the 1988 quarter
+
+Submitted annotations: 
+September
+October
+the earlier
+third-quarter
+quarter
+
+-------- 
+True positive: 3, False positive: 2, False negative: 19 
+
+=========================================================================
+
+Gold file: 153_ann.txt, submitted file: 153_sub.txt 
+
+Gold annotations: 
+Tuesday
+1989
+last year
+this year
+last
+next year
+the past 20 years
+1987
+now
+Monday
+July 1
+this year
+
+Submitted annotations: 
+July 1
+
+-------- 
+True positive: 1, False positive: 0, False negative: 11 
+
+=========================================================================
+
+Gold file: 143_ann.txt, submitted file: 143_sub.txt 
+
+Gold annotations: 
+the fourth quarter
+now
+today
+
+Submitted annotations: 
+quarter
+
+-------- 
+True positive: 0, False positive: 1, False negative: 3 
+
+=========================================================================
+
+Gold file: 131_ann.txt, submitted file: 131_sub.txt 
+
+Gold annotations: 
+the third quarter
+a year earlier
+The latest quarter
+the nine months
+a year earlier
+the year-earlier nine months
+third-quarter
+a year earlier
+the next couple of years
+the third quarter
+yesterday
+
+Submitted annotations: 
+quarter
+a year earlier
+quarter
+a year earlier
+earlier
+third-quarter
+a year earlier
+quarter
+yesterday
+
+-------- 
+True positive: 5, False positive: 4, False negative: 6 
+
+=========================================================================
+
+Gold file: 121_ann.txt, submitted file: 121_sub.txt 
+
+Gold annotations: 
+currently
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 1 
+
+=========================================================================
+
+Gold file: 37_ann.txt, submitted file: 37_sub.txt 
+
+Gold annotations: 
+third-quarter
+a year ago
+last month
+fourth-quarter
+the latest quarter
+a year ago
+last year
+the first nine months
+the 1988 period
+year-ago
+the 1988 second quarter
+
+Submitted annotations: 
+third-quarter
+quarter
+quarter
+quarter
+
+-------- 
+True positive: 1, False positive: 3, False negative: 10 
+
+=========================================================================
+
+Gold file: 27_ann.txt, submitted file: 27_sub.txt 
+
+Gold annotations: 
+the next several days
+Yesterday
+today
+today
+a while
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 5 
+
+=========================================================================
+
+Gold file: 55_ann.txt, submitted file: 55_sub.txt 
+
+Gold annotations: 
+the past
+from time to time
+Sept. 14
+Thursday
+Friday
+recently
+May
+February
+early September
+July
+recent
+Earlier this month
+the next four years
+the nine months
+
+Submitted annotations: 
+Sept. 14
+May
+February
+early September
+July
+
+-------- 
+True positive: 5, False positive: 0, False negative: 9 
+
+=========================================================================
+
+Gold file: 45_ann.txt, submitted file: 45_sub.txt 
+
+Gold annotations: 
+December
+
+Submitted annotations: 
+December
+
+-------- 
+True positive: 1, False positive: 0, False negative: 0 
+
+=========================================================================
+
+Gold file: 142_ann.txt, submitted file: 142_sub.txt 
+
+Gold annotations: 
+today
+the end of November
+currently
+previously
+
+Submitted annotations: 
+November
+
+-------- 
+True positive: 0, False positive: 1, False negative: 4 
+
+=========================================================================
+
+Gold file: 152_ann.txt, submitted file: 152_sub.txt 
+
+Gold annotations: 
+months
+January
+A few days
+March
+The following month
+early this month
+yesterday
+
+Submitted annotations: 
+January
+March
+yesterday
+
+-------- 
+True positive: 3, False positive: 0, False negative: 4 
+
+=========================================================================
+
+Gold file: 19_ann.txt, submitted file: 19_sub.txt 
+
+Gold annotations: 
+90 days
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 1 
+
+=========================================================================
+
+Gold file: 120_ann.txt, submitted file: 120_sub.txt 
+
+Gold annotations: 
+Friday
+Friday
+10 p.m. Wednesday
+noon Thursday
+recent years
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 5 
+
+=========================================================================
+
+Gold file: 130_ann.txt, submitted file: 130_sub.txt 
+
+Gold annotations: 
+last June
+soon
+this week
+recent
+last month
+a three-year period
+1985
+1987
+
+Submitted annotations: 
+June
+this week
+
+-------- 
+True positive: 1, False positive: 1, False negative: 7 
+
+=========================================================================
+
+Gold file: 26_ann.txt, submitted file: 26_sub.txt 
+
+Gold annotations: 
+5 p.m. EST Nov. 9
+Nov. 6
+
+Submitted annotations: 
+Nov. 9
+Nov. 6
+
+-------- 
+True positive: 1, False positive: 1, False negative: 1 
+
+=========================================================================
+
+Gold file: 36_ann.txt, submitted file: 36_sub.txt 
+
+Gold annotations: 
+yesterday
+23-year
+yesterday
+yesterday
+Friday
+yesterday
+yesterday
+the weekend
+now
+the end of the month
+the past
+the weekend
+a few days
+March
+
+Submitted annotations: 
+yesterday
+yesterday
+yesterday
+yesterday
+yesterday
+March
+
+-------- 
+True positive: 6, False positive: 0, False negative: 8 
+
+=========================================================================
+
+Gold file: 44_ann.txt, submitted file: 44_sub.txt 
+
+Gold annotations: 
+Nov. 13
+March
+third-quarter
+a year earlier
+Sept. 27, 1989
+yesterday
+
+Submitted annotations: 
+Nov. 13
+March
+third-quarter
+a year earlier
+Sept. 27
+yesterday
+
+-------- 
+True positive: 5, False positive: 1, False negative: 1 
+
+=========================================================================
+
+Gold file: 54_ann.txt, submitted file: 54_sub.txt 
+
+Gold annotations: 
+now
+last year
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 2 
+
+=========================================================================
+
+Gold file: 180_ann.txt, submitted file: 180_sub.txt 
+
+Gold annotations: 
+Friday
+Oct. 15, 1999
+Thursday
+Nov. 1, 2009
+1999
+10-year
+Nov. 17, 1992
+
+Submitted annotations: 
+Nov. 1
+Nov. 17
+
+-------- 
+True positive: 0, False positive: 2, False negative: 7 
+
+=========================================================================
+
+Gold file: 62_ann.txt, submitted file: 62_sub.txt 
+
+Gold annotations: 
+Friday
+the year
+tomorrow
+currently
+this year
+recent years
+recent years
+the future
+1980
+September
+Last month
+
+Submitted annotations: 
+September
+
+-------- 
+True positive: 1, False positive: 0, False negative: 10 
+
+=========================================================================
+
+Gold file: 72_ann.txt, submitted file: 72_sub.txt 
+
+Gold annotations: 
+now
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 1 
+
+=========================================================================
+
+Gold file: 3_ann.txt, submitted file: 3_sub.txt 
+
+Gold annotations: 
+last week
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 1 
+
+=========================================================================
+
+Gold file: 139_ann.txt, submitted file: 139_sub.txt 
+
+Gold annotations: 
+mid-afternoon yesterday
+Dec. 10
+already
+
+Submitted annotations: 
+yesterday
+
+-------- 
+True positive: 0, False positive: 1, False negative: 3 
+
+=========================================================================
+
+Gold file: 129_ann.txt, submitted file: 129_sub.txt 
+
+Gold annotations: 
+Previously
+the first two years
+five years
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 3 
+
+=========================================================================
+
+Gold file: 10_ann.txt, submitted file: 10_sub.txt 
+
+Gold annotations: 
+early this week
+the next three quarters
+the first nine months
+recent quarters
+
+Submitted annotations: 
+early this week
+quarter
+quarter
+
+-------- 
+True positive: 1, False positive: 2, False negative: 3 
+
+=========================================================================
+
+Gold file: 106_ann.txt, submitted file: 106_sub.txt 
+
+Gold annotations: 
+Jan. 3
+Nov. 16
+the fourth quarter
+Aug. 26
+A year earlier
+
+Submitted annotations: 
+quarter
+quarter
+Jan. 3
+Nov. 16
+quarter
+Aug. 26
+earlier
+
+-------- 
+True positive: 3, False positive: 4, False negative: 2 
+
+=========================================================================
+
+Gold file: 116_ann.txt, submitted file: 116_sub.txt 
+
+Gold annotations: 
+Saturday, April 25
+this week
+two years ago
+current
+
+Submitted annotations: 
+April 25
+this week
+
+-------- 
+True positive: 1, False positive: 1, False negative: 3 
+
+=========================================================================
+
+Gold file: 86_ann.txt, submitted file: 86_sub.txt 
+
+Gold annotations: 
+today
+a minute and a half
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 2 
+
+=========================================================================
+
+Gold file: 96_ann.txt, submitted file: 96_sub.txt 
+
+Gold annotations: 
+today
+Nov. 17
+Jan. 1, 1990
+
+Submitted annotations: 
+Nov. 17
+Jan. 1
+
+-------- 
+True positive: 1, False positive: 1, False negative: 2 
+
+=========================================================================
+
+Gold file: 164_ann.txt, submitted file: 164_sub.txt 
+
+Gold annotations: 
+next year's first quarter
+the year
+March 31
+last year
+
+Submitted annotations: 
+quarter
+March 31
+
+-------- 
+True positive: 1, False positive: 1, False negative: 3 
+
+=========================================================================
+
+Gold file: 174_ann.txt, submitted file: 174_sub.txt 
+
+Gold annotations: 
+this coming Sunday, March eighth
+twenty years
+the past twenty years
+today
+
+Submitted annotations: 
+March
+
+-------- 
+True positive: 0, False positive: 1, False negative: 4 
+
+=========================================================================
+
+Gold file: 69_ann.txt, submitted file: 69_sub.txt 
+
+Gold annotations: 
+210 years
+Friday
+next year
+Friday
+2000
+several years ago
+this year
+1901
+20th century
+almost a hundred years
+1996
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 11 
+
+=========================================================================
+
+Gold file: 8_ann.txt, submitted file: 8_sub.txt 
+
+Gold annotations: 
+Nov. 16
+March 1, 2011
+Friday
+last Monday
+
+Submitted annotations: 
+Nov. 16
+March 1
+
+-------- 
+True positive: 1, False positive: 1, False negative: 3 
+
+=========================================================================
+
+Gold file: 79_ann.txt, submitted file: 79_sub.txt 
+
+Gold annotations: 
+August
+a month
+current
+Friday
+Monday
+Tuesday nights
+March 30
+each Thursday
+August 6
+
+Submitted annotations: 
+August
+March 30
+August 6
+
+-------- 
+True positive: 3, False positive: 0, False negative: 6 
+
+=========================================================================
+
+Gold file: 132_ann.txt, submitted file: 132_sub.txt 
+
+Gold annotations: 
+third-quarter
+a year ago
+a flat second quarter
+the year-earlier period
+the 1989 period
+a year ago
+the first nine months
+
+Submitted annotations: 
+third-quarter
+quarter
+quarter
+quarter
+earlier
+
+-------- 
+True positive: 1, False positive: 4, False negative: 6 
+
+=========================================================================
+
+Gold file: 122_ann.txt, submitted file: 122_sub.txt 
+
+Gold annotations: 
+yesterday
+
+Submitted annotations: 
+yesterday
+
+-------- 
+True positive: 1, False positive: 0, False negative: 0 
+
+=========================================================================
+
+Gold file: 150_ann.txt, submitted file: 150_sub.txt 
+
+Gold annotations: 
+Now
+the middle of October
+today
+the winter of nineteen ninety-four
+the last two weeks
+
+Submitted annotations: 
+October
+
+-------- 
+True positive: 0, False positive: 1, False negative: 5 
+
+=========================================================================
+
+Gold file: 140_ann.txt, submitted file: 140_sub.txt 
+
+Gold annotations: 
+today
+last night
+now
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 3 
+
+=========================================================================
+
+Gold file: 56_ann.txt, submitted file: 56_sub.txt 
+
+Gold annotations: 
+Last week
+the past two months
+the past two months
+recent
+the weeks ahead
+recent years
+the past two months
+last week
+week
+last month
+every month
+the last three years
+this month
+early September
+Friday Oct. 13
+now
+the past two months
+this year
+August
+The last two months
+this year
+Oct. 19
+this year
+Oct. 19
+now
+recent weeks and months
+
+Submitted annotations: 
+quarter
+early September
+August
+
+-------- 
+True positive: 2, False positive: 1, False negative: 24 
+
+=========================================================================
+
+Gold file: 46_ann.txt, submitted file: 46_sub.txt 
+
+Gold annotations: 
+yesterday
+
+Submitted annotations: 
+yesterday
+
+-------- 
+True positive: 1, False positive: 0, False negative: 0 
+
+=========================================================================
+
+Gold file: 34_ann.txt, submitted file: 34_sub.txt 
+
+Gold annotations: 
+5 p.m. EST, Nov. 6
+midnight Friday
+last Friday
+Sept. 26
+Friday
+Late last week
+
+Submitted annotations: 
+Nov. 6
+Sept. 26
+
+-------- 
+True positive: 1, False positive: 1, False negative: 5 
+
+=========================================================================
+
+Gold file: 24_ann.txt, submitted file: 24_sub.txt 
+
+Gold annotations: 
+last Wednesday
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 1 
+
+=========================================================================
+
+Gold file: 149_ann.txt, submitted file: 149_sub.txt 
+
+Gold annotations: 
+the third quarter
+year-earlier
+the nine months
+year-earlier
+
+Submitted annotations: 
+quarter
+earlier
+earlier
+
+-------- 
+True positive: 0, False positive: 3, False negative: 4 
+
+=========================================================================
+
+Gold file: 159_ann.txt, submitted file: 159_sub.txt 
+
+Gold annotations: 
+days
+summer
+now
+at least the past 18 months
+third-quarter
+last month
+the last half of 1989
+1990
+yesterday
+1989
+the last half of the '80s
+the mid-1990s
+the current year
+yesterday
+1990
+third-quarter
+last year
+
+Submitted annotations: 
+third-quarter
+yesterday
+earlier
+yesterday
+third-quarter
+
+-------- 
+True positive: 4, False positive: 1, False negative: 13 
+
+=========================================================================
+
+Gold file: 12_ann.txt, submitted file: 12_sub.txt 
+
+Gold annotations: 
+today
+today
+Tuesday
+today
+today
+some time
+now
+Friday
+August 1988
+eight-year
+Aug. 2
+up to 180 days
+Tuesday
+today
+today
+today
+Tuesday
+now
+Aug. 6
+Tuesday
+today
+Tuesday
+Monday
+Thursday
+today
+this crucial moment
+Tuesday
+Tuesday
+now
+today
+eighth day
+now
+weeks
+
+Submitted annotations: 
+the August 1988
+Aug. 2
+Aug. 6
+quarter
+
+-------- 
+True positive: 2, False positive: 2, False negative: 31 
+
+=========================================================================
+
+Gold file: 1_ann.txt, submitted file: 1_sub.txt 
+
+Gold annotations: 
+Friday
+nearly four years ago
+April 6, 1994
+2 1/2 years
+a year
+
+Submitted annotations: 
+April 6
+
+-------- 
+True positive: 0, False positive: 1, False negative: 5 
+
+=========================================================================
+
+Gold file: 70_ann.txt, submitted file: 70_sub.txt 
+
+Gold annotations: 
+Nov. 9
+currently
+Oct. 31
+yesterday
+annually
+
+Submitted annotations: 
+Nov. 9
+yesterday
+
+-------- 
+True positive: 2, False positive: 0, False negative: 3 
+
+=========================================================================
+
+Gold file: 60_ann.txt, submitted file: 60_sub.txt 
+
+Gold annotations: 
+three hour
+today
+later this afternoon
+no more than sixty days
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 4 
+
+=========================================================================
+
+Gold file: 182_ann.txt, submitted file: 182_sub.txt 
+
+Gold annotations: 
+three years
+each month
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 2 
+
+=========================================================================
+
+Gold file: 176_ann.txt, submitted file: 176_sub.txt 
+
+Gold annotations: 
+today
+December
+twenty years
+now
+now
+
+Submitted annotations: 
+December
+
+-------- 
+True positive: 1, False positive: 0, False negative: 4 
+
+=========================================================================
+
+Gold file: 166_ann.txt, submitted file: 166_sub.txt 
+
+Gold annotations: 
+Friday
+Thursday
+Friday
+Thursday
+Thursday
+the past few weeks
+Friday
+Friday
+today
+this morning
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 10 
+
+=========================================================================
+
+Gold file: 94_ann.txt, submitted file: 94_sub.txt 
+
+Gold annotations: 
+Sunday
+recent days
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 2 
+
+=========================================================================
+
+Gold file: 84_ann.txt, submitted file: 84_sub.txt 
+
+Gold annotations: 
+once
+the early 1980s
+1983
+1985
+July 1988
+
+Submitted annotations: 
+July 1988
+
+-------- 
+True positive: 1, False positive: 0, False negative: 4 
+
+=========================================================================
+
+Gold file: 114_ann.txt, submitted file: 114_sub.txt 
+
+Gold annotations: 
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 0 
+
+=========================================================================
+
+Gold file: 104_ann.txt, submitted file: 104_sub.txt 
+
+Gold annotations: 
+March 15, 2007
+
+Submitted annotations: 
+March 15
+
+-------- 
+True positive: 0, False positive: 1, False negative: 1 
+
+=========================================================================
+
+Gold file: 13_ann.txt, submitted file: 13_sub.txt 
+
+Gold annotations: 
+one day
+yesterday
+
+Submitted annotations: 
+yesterday
+
+-------- 
+True positive: 1, False positive: 0, False negative: 1 
+
+=========================================================================
+
+Gold file: 158_ann.txt, submitted file: 158_sub.txt 
+
+Gold annotations: 
+last year
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 1 
+
+=========================================================================
+
+Gold file: 148_ann.txt, submitted file: 148_sub.txt 
+
+Gold annotations: 
+currently
+fourth-quarter
+the year
+Aug. 31
+last year
+1988
+earlier this year
+
+Submitted annotations: 
+quarter
+Aug. 31
+earlier
+
+-------- 
+True positive: 1, False positive: 2, False negative: 6 
+
+=========================================================================
+
+Gold file: 61_ann.txt, submitted file: 61_sub.txt 
+
+Gold annotations: 
+the future
+less than one hour
+Thursday
+today
+the day
+Friday
+now
+next week
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 8 
+
+=========================================================================
+
+Gold file: 71_ann.txt, submitted file: 71_sub.txt 
+
+Gold annotations: 
+the third quarter
+the quarter a year ago
+the latest quarter
+a year earlier
+recent years
+the nine months
+a year earlier
+Sept. 30
+June 30
+1994
+now
+five years
+August
+the past two weeks
+Oct. 9
+year's end
+Sept. 30
+
+Submitted annotations: 
+quarter
+the quarter
+quarter
+a year earlier
+a year earlier
+Sept. 30
+June 30
+quarter
+quarter
+August
+Sept. 30
+
+-------- 
+True positive: 6, False positive: 5, False negative: 11 
+
+=========================================================================
+
+Gold file: 183_ann.txt, submitted file: 183_sub.txt 
+
+Gold annotations: 
+the future
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 1 
+
+=========================================================================
+
+Gold file: 167_ann.txt, submitted file: 167_sub.txt 
+
+Gold annotations: 
+the third quarter
+the third quarter
+a year ago
+The latest period
+the near future
+
+Submitted annotations: 
+quarter
+quarter
+
+-------- 
+True positive: 0, False positive: 2, False negative: 5 
+
+=========================================================================
+
+Gold file: 177_ann.txt, submitted file: 177_sub.txt 
+
+Gold annotations: 
+fourth-quarter
+a year earlier
+the latest period
+last year
+the year
+Sept. 30
+This year
+the full year
+recent
+the next year or so
+fourth-quarter
+the year
+yesterday
+
+Submitted annotations: 
+quarter
+a year earlier
+Sept. 30
+quarter
+yesterday
+
+-------- 
+True positive: 3, False positive: 2, False negative: 10 
+
+=========================================================================
+
+Gold file: 85_ann.txt, submitted file: 85_sub.txt 
+
+Gold annotations: 
+currently
+yesterday
+
+Submitted annotations: 
+yesterday
+
+-------- 
+True positive: 1, False positive: 0, False negative: 1 
+
+=========================================================================
+
+Gold file: 95_ann.txt, submitted file: 95_sub.txt 
+
+Gold annotations: 
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 0 
+
+=========================================================================
+
+Gold file: 105_ann.txt, submitted file: 105_sub.txt 
+
+Gold annotations: 
+the third quarter
+Aug. 21
+the third quarter
+the year-earlier third quarter
+June
+Nov. 1
+
+Submitted annotations: 
+quarter
+Aug. 21
+quarter
+earlier
+quarter
+June
+the Nov. 1
+
+-------- 
+True positive: 2, False positive: 5, False negative: 4 
+
+=========================================================================
+
+Gold file: 115_ann.txt, submitted file: 115_sub.txt 
+
+Gold annotations: 
+Monday
+Wednesday
+Monday
+last week
+Monday
+Sunday
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 6 
+
+=========================================================================
+
+Gold file: 123_ann.txt, submitted file: 123_sub.txt 
+
+Gold annotations: 
+Thursday
+the last five years
+recent months
+last year
+1993
+Tuesday
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 6 
+
+=========================================================================
+
+Gold file: 133_ann.txt, submitted file: 133_sub.txt 
+
+Gold annotations: 
+Oct. 23
+about two years ago
+the 20th century
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 3 
+
+=========================================================================
+
+Gold file: 78_ann.txt, submitted file: 78_sub.txt 
+
+Gold annotations: 
+last year
+last December
+February
+February
+Friday
+Friday
+
+Submitted annotations: 
+December
+February
+February
+
+-------- 
+True positive: 2, False positive: 1, False negative: 4 
+
+=========================================================================
+
+Gold file: 9_ann.txt, submitted file: 9_sub.txt 
+
+Gold annotations: 
+third-quarter
+a year ago
+earlier this year
+yesterday
+
+Submitted annotations: 
+third-quarter
+earlier
+yesterday
+
+-------- 
+True positive: 2, False positive: 1, False negative: 2 
+
+=========================================================================
+
+Gold file: 68_ann.txt, submitted file: 68_sub.txt 
+
+Gold annotations: 
+each of the past three years
+recently
+52-week
+yesterday
+last year
+
+Submitted annotations: 
+quarter
+yesterday
+
+-------- 
+True positive: 1, False positive: 1, False negative: 4 
+
+=========================================================================
+
+Gold file: 141_ann.txt, submitted file: 141_sub.txt 
+
+Gold annotations: 
+Friday
+centuries
+last May
+at least 20 more years
+Last year
+the past
+four-day
+10-year
+last year
+1996
+Friday
+
+Submitted annotations: 
+May
+
+-------- 
+True positive: 0, False positive: 1, False negative: 11 
+
+=========================================================================
+
+Gold file: 151_ann.txt, submitted file: 151_sub.txt 
+
+Gold annotations: 
+nineteen ninety-one
+nineteen ninety-six
+Now
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 3 
+
+=========================================================================
+
+Gold file: 47_ann.txt, submitted file: 47_sub.txt 
+
+Gold annotations: 
+third-quarter
+A year earlier
+
+Submitted annotations: 
+third-quarter
+earlier
+
+-------- 
+True positive: 1, False positive: 1, False negative: 1 
+
+=========================================================================
+
+Gold file: 57_ann.txt, submitted file: 57_sub.txt 
+
+Gold annotations: 
+Earlier this year
+last week
+
+Submitted annotations: 
+
+-------- 
+True positive: 0, False positive: 0, False negative: 2 
+
+=========================================================================
+
+Gold file: 25_ann.txt, submitted file: 25_sub.txt 
+
+Gold annotations: 
+the year
+March 31
+currently
+
+Submitted annotations: 
+March 31
+
+-------- 
+True positive: 1, False positive: 0, False negative: 2 
+
+=========================================================================
+
+Gold file: 35_ann.txt, submitted file: 35_sub.txt 
+
+Gold annotations: 
+the short term
+Friday
+earlier this month
+1994 or later
+the weekend
+June 1994
+five years
+1990
+1991
+1988
+1990
+now
+Friday
+1984
+
+Submitted annotations: 
+earlier
+June 1994
+
+-------- 
+True positive: 1, False positive: 1, False negative: 13 
+
+=========================================================================
+
+True positive:  252.00 
+False positive: 193.00 
+False negative: 991.00 
+-------- 
+Recall:    20.27 
+Precision: 56.63 
+F1-score:  29.86 
